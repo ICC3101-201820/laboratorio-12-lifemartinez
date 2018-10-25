@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12", "WindowsFormsApp3\Lab12.csproj", "{772C2DC6-6159-48AD-A4CA-440FB94806E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "ClassLibrary1\Modelo.csproj", "{ACDB1151-C739-4C89-A0DA-A1B6AE41654D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772C2DC6-6159-48AD-A4CA-440FB94806E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772C2DC6-6159-48AD-A4CA-440FB94806E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772C2DC6-6159-48AD-A4CA-440FB94806E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772C2DC6-6159-48AD-A4CA-440FB94806E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDB1151-C739-4C89-A0DA-A1B6AE41654D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDB1151-C739-4C89-A0DA-A1B6AE41654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDB1151-C739-4C89-A0DA-A1B6AE41654D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDB1151-C739-4C89-A0DA-A1B6AE41654D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E67308-0764-4467-94CD-70D378186721}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\bin\Debug\Modelo.dll
+C:\Users\ING\source\repos\lab12\WindowsFormsApp3\bin\Debug\Modelo.pdb

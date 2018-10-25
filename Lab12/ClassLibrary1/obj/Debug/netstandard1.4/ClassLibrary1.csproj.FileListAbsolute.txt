@@ -1,0 +1,8 @@
+C:\Users\ING\source\repos\lab12\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Users\ING\source\repos\lab12\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\ING\source\repos\lab12\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb

@@ -1,0 +1,15 @@
+C:\Users\ING\source\repos\lab12\ClassLibrary1\bin\Debug\netstandard1.4\Modelo.deps.json
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.AssemblyInfo.cs
+C:\Users\ING\source\repos\lab12\ClassLibrary1\bin\Debug\netstandard1.4\Modelo.dll
+C:\Users\ING\source\repos\lab12\ClassLibrary1\bin\Debug\netstandard1.4\Modelo.pdb
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.dll
+C:\Users\ING\source\repos\lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.pdb
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\bin\Debug\netstandard1.4\Modelo.deps.json
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\bin\Debug\netstandard1.4\Modelo.dll
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\bin\Debug\netstandard1.4\Modelo.pdb
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.AssemblyInfo.cs
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.dll
+C:\Users\ING\Desktop\Lab12\ClassLibrary1\obj\Debug\netstandard1.4\Modelo.pdb
